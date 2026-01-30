@@ -1,4 +1,5 @@
-##HN Time Capsule  
+HN Time Capsule
+
 <img width="1212" height="721" alt="hnhero" src="https://github.com/user-attachments/assets/82187f37-ace3-47ba-9b22-b6adf0e1822f" />
 
 **Hero project:** A Hacker News time capsule that rewinds the clock exactly **10 years**, pulls the HN frontpage of that day, and uses LLM-powered hindsight to evaluate how well predictions aged. The result? A synthesized HTML report that highlights who was *spot on* and who missed the mark.  
