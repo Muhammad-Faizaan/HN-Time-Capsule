@@ -1,4 +1,4 @@
-#HN Time Capsule  
+HN Time Capsule  
 <img width="1212" height="721" alt="hnhero" src="https://github.com/user-attachments/assets/82187f37-ace3-47ba-9b22-b6adf0e1822f" />
 
 **Hero project:** A Hacker News time capsule that rewinds the clock exactly **10 years**, pulls the HN frontpage of that day, and uses LLM-powered hindsight to evaluate how well predictions aged. The result? A synthesized HTML report that highlights who was *spot on* and who missed the mark.  
@@ -7,10 +7,10 @@ Also see my short blog post for additional context.
 
 ---
 
-## 🚀 What This Project Does  
+🚀 What This Project Does  
 
 - **Fetches** the Hacker News frontpage from exactly 10 years ago  
-  *(example: [HN frontpage from Dec 9, 2015](https://news.ycombinator.com/front?day=2015-12-09))*  
+  *(example: HN frontpage from Dec 9, 2015 [(news.ycombinator.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fnews.ycombinator.com%2Ffront%3Fday%3D2015-12-09"))*  
 - **Retrieves** original article content + all HN comments  
 - **Generates prompts** for an LLM to analyze outcomes with hindsight  
 - **Parses responses** to extract grades for each commenter  
@@ -22,7 +22,7 @@ Also see my short blog post for additional context.
 
 ---
 
-## ⚡ Vibe Code Disclaimer  
+⚡ Vibe Code Disclaimer  
 
 This repo was **99% vibe-coded in a few hours** with Opus 4.5.  
 It works, but don’t expect ongoing support. Code is provided *as-is*.  
@@ -116,5 +116,3 @@ Grades are aggregated into a **Hall of Fame**, tracking which HN accounts consis
 MIT  
 
 ---
-
-👉 This version makes your README **unique, structured, and engaging** while keeping all technical details intact. Would you like me to also design a **Hall of Fame sample screenshot mockup** (in Markdown) so readers instantly see what the output looks like?
